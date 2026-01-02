@@ -1,4 +1,4 @@
----
+android20-
 manufacturer: samsung
 
 ---
